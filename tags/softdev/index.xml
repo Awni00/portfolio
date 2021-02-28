@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>softdev on Awni</title>
-    <link>/tags/softdev/</link>
+    <link>https://awni00.github.io/portfolio/tags/softdev/</link>
     <description>Recent content in softdev on Awni</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     
-	    <atom:link href="/tags/softdev/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://awni00.github.io/portfolio/tags/softdev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neurol</title>
-      <link>/project/neurol/</link>
+      <link>https://awni00.github.io/portfolio/project/neurol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/neurol/</guid>
+      <guid>https://awni00.github.io/portfolio/project/neurol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization of Complex Mappings</title>
-      <link>/project/cmplx-viz/</link>
+      <link>https://awni00.github.io/portfolio/project/cmplx-viz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/cmplx-viz/</guid>
+      <guid>https://awni00.github.io/portfolio/project/cmplx-viz/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;
