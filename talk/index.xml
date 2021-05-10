@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Awni</title>
-    <link>https://awni00.github.io/portfolio/talk/</link>
+    <link>https://www.awni.xyz/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Awni</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     
-	    <atom:link href="https://awni00.github.io/portfolio/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.awni.xyz/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coding and Analyzing Qualitative Data</title>
-      <link>https://awni00.github.io/portfolio/talk/coding/</link>
+      <link>https://www.awni.xyz/talk/coding/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://awni00.github.io/portfolio/talk/coding/</guid>
+      <guid>https://www.awni.xyz/talk/coding/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title>Qualitative Research Summer Intensive</title>
-      <link>https://awni00.github.io/portfolio/talk/qualitative/</link>
+      <link>https://www.awni.xyz/talk/qualitative/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://awni00.github.io/portfolio/talk/qualitative/</guid>
+      <guid>https://www.awni.xyz/talk/qualitative/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Synthesizing Qualitative Data</title>
-      <link>https://awni00.github.io/portfolio/talk/synthesizing/</link>
+      <link>https://www.awni.xyz/talk/synthesizing/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://awni00.github.io/portfolio/talk/synthesizing/</guid>
+      <guid>https://www.awni.xyz/talk/synthesizing/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;

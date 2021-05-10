@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ai on Awni</title>
-    <link>https://awni00.github.io/portfolio/tags/ai/</link>
+    <link>https://www.awni.xyz/tags/ai/</link>
     <description>Recent content in ai on Awni</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     
-	    <atom:link href="https://awni00.github.io/portfolio/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.awni.xyz/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3D Object Classification</title>
-      <link>https://awni00.github.io/portfolio/project/3dcv/</link>
+      <link>https://www.awni.xyz/project/3dcv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awni00.github.io/portfolio/project/3dcv/</guid>
+      <guid>https://www.awni.xyz/project/3dcv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intelligent Playlist Generation</title>
-      <link>https://awni00.github.io/portfolio/project/playlist-gen/</link>
+      <link>https://www.awni.xyz/project/playlist-gen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awni00.github.io/portfolio/project/playlist-gen/</guid>
+      <guid>https://www.awni.xyz/project/playlist-gen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music Generation AI</title>
-      <link>https://awni00.github.io/portfolio/project/music-gen/</link>
+      <link>https://www.awni.xyz/project/music-gen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awni00.github.io/portfolio/project/music-gen/</guid>
+      <guid>https://www.awni.xyz/project/music-gen/</guid>
       <description></description>
     </item>
     
